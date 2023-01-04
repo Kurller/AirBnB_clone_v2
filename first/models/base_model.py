@@ -1,5 +1,3 @@
-es (68 sloc)  2.67 KB
-
 #!/usr/bin/python3
 """This module defines a base class for all models in our hbnb clone"""
 import uuid
