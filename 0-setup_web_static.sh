@@ -20,11 +20,7 @@ echo -e "\e[1;32m directories created"
 echo
 
 #--adds test string
-<<<<<<< HEAD
 echo "<h1>Welcome to topkolaworld.tech</h1>" > /data/web_static/releases/test/index.html
-=======
-echo "<h1>Welcome to www.beta-scribbles.tech</h1>" > /data/web_static/releases/test/index.html
->>>>>>> f47aeaf4a3182ee478ec9053e80a61bf3f432b7e
 echo -e "\e[1;32m Test string added\e[0m"
 echo
 
