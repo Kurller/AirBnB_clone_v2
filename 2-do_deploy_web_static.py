@@ -9,11 +9,7 @@ from datetime import datetime
 from fabric.api import env, local, put, run, runs_once
 
 
-<<<<<<< HEAD
 env.hosts = ['34.207.61.229', '52.86.139.13']
-=======
-env.hosts = ['34.207.61.229', '52.86.139.13']
->>>>>>> f47aeaf4a3182ee478ec9053e80a61bf3f432b7e
 
 
 def do_deploy(archive_path):
@@ -69,8 +65,5 @@ def do_deploy(archive_path):
         success = True
     except Exception:
         success = False
-<<<<<<< HEAD
-    return successi
-=======
     return success
->>>>>>> f47aeaf4a3182ee478ec9053e80a61bf3f432b7e
+i
